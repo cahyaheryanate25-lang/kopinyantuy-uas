@@ -206,6 +206,3 @@ if ($search != '') {
   </script>
 </body>
 </html>
-```[cite: 9]
-
-Simpan file dengan **`Ctrl + S`**, lalu *refresh* halaman `http://localhost/antar muka computer/UAS/admin.php` di browser[cite: 8]. Dashboard kasir akan langsung tampil normal[cite: 9]!
