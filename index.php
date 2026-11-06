@@ -677,10 +677,3 @@
   </script>
 </body>
 </html>
-```[cite: 13, 14]
-
----
-
-### Perubahan Utama:
-1. Mengubah fungsi `prosesBayar(e)` menjadi **`async/await`** sehingga browser akan mengirimkan data pesanan dan menunggu konfirmasi tersimpan di database **`db_kopinyantuy`** terlebih dahulu sebelum jendela WhatsApp terbuka[cite: 13, 14].
-2. Menambahkan indikator status *"Menyimpan Pesanan..."* pada tombol checkout agar pemesan mengetahui transaksi sedang diproses di server backend[cite: 13].
