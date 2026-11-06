@@ -37,7 +37,7 @@ Proyek Tugas Akhir Pemrograman Web / Antar Muka Komputer untuk sistem pemesanan 
 
 ### 🗄️ Struktur Database (`db_kopinyantuy`)
 
-Tabel `pesanan` dibuat menggunakan struktur berikut (tersedia pada `database.sql`):
+Tabel `pesanan` dibuat menggunakan struktur berikut:
 
 ```sql
 CREATE TABLE IF NOT EXISTS `pesanan` (
